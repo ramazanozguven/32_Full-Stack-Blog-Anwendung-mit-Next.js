@@ -1,6 +1,6 @@
 # 📰 Next.js 14 Full-Stack Blog Website
 
-![Next.js 14 Full Stack Blog Website]()
+![Next.js 14 Full Stack Blog Website](https://github.com/ramazanozguven/32_Full-Stack-Blog-Anwendung-mit-Next.js/blob/d720639dbc9088a52631b46125a9b2df195b2bbe/Screenshot%20des%20Projekts.png)
 
 ## 🚀 Modern Full-Stack Blog-Anwendung mit Next.js 14, MongoDB & Auth.js
 
